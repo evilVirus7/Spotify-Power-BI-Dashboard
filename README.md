@@ -21,16 +21,16 @@ This dashboard transforms raw Spotify Top 50 data into actionable insights:
 
 
 ### Home Page
-![Home Page]((https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172136.png))
+![Home Page](https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172136.png)
 
 ### Overview Page
-![Overview Page]((https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172203.png))
+![Overview Page](https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172203.png)
 
 ### Artists Page
-![Artists Page]((https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172221.png))
+![Artists Page](https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172221.png)
 
 ### Songs Page
-![Songs Page]((https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172234.png))
+![Songs Page](https://github.com/evilVirus7/Spotify-Power-BI-Dashboard/blob/master/Screenshot%202025-10-23%20172234.png)
 
 
 ---
